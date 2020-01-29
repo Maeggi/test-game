@@ -3,8 +3,8 @@ Test Game Colyseus
 
 Testet on Node 12.14.0
 
-//Install
+Install:
 > npm install
 
-//Start
-node server
+Start:
+> node server
