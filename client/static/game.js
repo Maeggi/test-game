@@ -106,7 +106,7 @@ class Game extends Phaser.Scene {
         head.depth = 10;
 
         this.player = {};
-        this.player.head = head;
+        //this.player.head = head;
         this.player.sprite = sprite;
         this.cameras.main.startFollow(this.player.sprite);
         this.player.head = head;
@@ -122,7 +122,7 @@ class Game extends Phaser.Scene {
         head.depth = 10;
 
         this.players[id] = {};
-        this.players[id].head = head;
+        //this.players[id].head = head;
         this.players[id].sprite = sprite;
         this.players[id].head = head;
     }
