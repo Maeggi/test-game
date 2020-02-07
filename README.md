@@ -1,12 +1,12 @@
 Server-Console-Log:
-StateHandlerRoom created!
-create player
+> StateHandlerRoom created!
+> create player
 
 2-3 Seconds later:
-user leave the room
+> user leave the room
 
 Client-Console-Log:
-No Results
+> No Results
 
 # test-game
 Test Game Colyseus
